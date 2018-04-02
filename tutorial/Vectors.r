@@ -89,15 +89,18 @@ t
 
 e <- c(1,NA,3)
 
-f <- c("Good", "Morning", NULL)
+f <- c("Good", "Morning", NA)
 
 e
 
 f
 
-f <- c(NULL)
+g <- c(NULL)
 
-f
+g
 
+is.null(g)
+
+is.na(f)
 
 
