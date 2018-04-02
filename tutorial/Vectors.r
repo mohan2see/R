@@ -102,5 +102,3 @@ g
 is.null(g)
 
 is.na(f)
-
-
