@@ -35,7 +35,7 @@ nchar(10)
 
 
 
-#date and datetime
+#date and datetime types
 
 p <- as.Date("1990-06-28")
 
