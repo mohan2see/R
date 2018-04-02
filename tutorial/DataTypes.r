@@ -49,6 +49,8 @@ class(p)
 
 r <- TRUE
 
+s <- FALSE
+
 5==3
 
 TRUE * 5
