@@ -68,6 +68,12 @@ nchar(FavMovies2)
 
 as.numeric(FavMovies2factor)
 
+q <- factor(c("data","mobile","data"))
+
+class(q)
+
+q
+
 t <- c(1:4)
 
 t
@@ -92,4 +98,6 @@ f
 f <- c(NULL)
 
 f
+
+
 
