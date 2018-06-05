@@ -2,7 +2,7 @@
 
 x <- 5
 
-y <- 10.5
+print(y)
 
 z <- 5L #L represents integer
 
